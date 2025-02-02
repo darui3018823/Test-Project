@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="select_prefecture">都道府県を選択</string>
+    <string name="select_city">市区町村を選択</string>
+</resources>
